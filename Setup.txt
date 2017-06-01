@@ -1,0 +1,2 @@
+Procure software from the vendor
+Perform compliance tests
